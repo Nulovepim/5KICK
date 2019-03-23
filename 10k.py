@@ -424,40 +424,40 @@ def help():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage = "╭──────────╮" + "\n" + \
-                  "│【さัএπัஞ✵ບิथℓℓҨतΩ】" + "\n" + \
+                  "│𝙋𝙣𝙪  𝙎𝙪𝙥𝙝𝙖𝙩⍣♡̷ " + "\n" + \
                   "╰──────────╯" + "\n" + \
                   "╭──────────╮" + "\n" + \
-                  "│  ☯ sᴇʟғʙᴏᴛ ʙʏ ᴍᴀx ☯" + "\n" + \
+                  "│ 𝙋𝙣𝙪  𝙎𝙪𝙥𝙝𝙖𝙩⍣♡̷ " + "\n" + \
                   "╰──────────╯" + "\n" + \
-                  "             😈 HELP 😈" + "\n" + \
+                  "              HELP " + "\n" + \
                   "╭──────────╮" + "\n" + \
                   "│ ≫ " + key + "Cctv「on/off」\n" + \
-				  "│ ≫ " + key + "Cyduk\n" + \
-				  "│ ≫ " + key + "Creator\n" + \
-				  "│ ≫ " + key + "Help2\n" + \
-				  "│ ≫ " + key + "Help3\n" + \
-				  "│ ≫ " + key + "Help4\n" + \
-                                  "│ ≫ " + key + "Help5\n" + \
+                  "│ ≫ " + key + "Cyduk\n" + \
+                  "│ ≫ " + key + "Creator\n" + \
+                  "│ ≫ " + key + "Help2\n" + \
+		  "│ ≫ " + key + "Help3\n" + \
+		  "│ ≫ " + key + "Help4\n" + \
+                  "│ ≫ " + key + "Help5\n" + \
                   "│ ≫ " + key + "Help6\n" + \
-				  "│ ≫ " + key + "Help7\n" + \
+		  "│ ≫ " + key + "Help7\n" + \
                   "│ ≫ " + key + "Listbot\n" + \
                   "│ ≫ " + key + "Listadmin\n" + \
-				  "│ ≫ " + key + "Status\n" + \
-				  "╰──────────╯" + "\n" + \
+		  "│ ≫ " + key + "Status\n" + \
+		  "╰──────────╯" + "\n" + \
                   " " + "\n" + \
-                  "😈「SELFBOT-BY:MAX」😈"
+                  "「SELFBOT-𝙋𝙣𝙪 𝙎𝙪𝙥𝙝𝙖𝙩」"
     return helpMessage
 
 def helpcreator():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage1 = "╭──────────╮" + "\n" + \
-                  "│【さัএπัஞ✵ບิथℓℓҨतΩ】" + "\n" + \
+                  "│𝙋𝙣𝙪 𝙎𝙪𝙥𝙝𝙖𝙩 " + "\n" + \
                   "╰──────────╯" + "\n" + \
                   "╭──────────╮" + "\n" + \
-                  "│  ☯ sᴇʟғʙᴏᴛ ʙʏ ᴍᴀx ☯" + "\n" + \
+                  "│  Help bot Pnu" + "\n" + \
                   "╰──────────╯" + "\n" + \
-                  "    😈 HELP CREATOR 😈" + "\n" + \
+                  "    HELP CREATOR " + "\n" + \
                   "╭──────────╮" + "\n" + \
                   "│ ≫ " + key + "Cek spam\n" + \
                   "│ ≫ " + key + "Cek pesan\n" + \
@@ -497,7 +497,7 @@ def helpcreator():
                   "│ ≫ " + key + "B7name:「Name」\n" + \
                   "│ ≫ " + key + "B8name:「Name」\n" + \
                   "│ ≫ " + key + "B9name:「Name」\n" + \
-				  "│ ≫ " + key + "B10name:「Name」\n" + \
+                  "│ ≫ " + key + "B10name:「Name」\n" + \
                   "│ ≫ " + key + "Uppro:「Foto」\n" + \
                   "│ ≫ " + key + "B1up「Foto」\n" + \
                   "│ ≫ " + key + "B2up「Foto」\n" + \
@@ -508,10 +508,10 @@ def helpcreator():
                   "│ ≫ " + key + "B7up「Foto」\n" + \
                   "│ ≫ " + key + "B8up「Foto」\n" + \
                   "│ ≫ " + key + "B9up「Foto」\n" + \
-				  "│ ≫ " + key + "B10up「Foto」\n" + \
+                  "│ ≫ " + key + "B10up「Foto」\n" + \
                   "│ ≫ " + key + "Run:「Mid」「Jumlah」\n" + \
                   "│ ≫ " + key + "Spam:「Mid」「Jumlah」\n" + \
-				  "│ ≫ " + key + "Spamtag:「jumlahnya」\n" + \
+		  "│ ≫ " + key + "Spamtag:「jumlahnya」\n" + \
                   "│ ≫ " + key + "Spamtag「@」\n" + \
                   "│ ≫ " + key + "Spamcall:「jumlahnya」\n" + \
                   "│ ≫ " + key + "Spamcall\n" + \
@@ -519,103 +519,103 @@ def helpcreator():
                   "│ ≫ " + key + "Setkey「New Key」\n" + \
                   "│ ≫ " + key + "Mykey\n" + \
                   "│ ≫ " + key + "Resetkey\n" + \
-				  "│ ≫ " + key + "Self「on/off」\n" + \
+		  "│ ≫ " + key + "Self「on/off」\n" + \
                   "╰──────────╯" + "\n" + \
                   " " + "\n" + \
-                  "😈「SELFBOT-BY:MAX」😈"
+                  "「Bot 𝙋𝙣𝙪 𝙎𝙪𝙥𝙝𝙖𝙩」"
     return helpMessage1
 
 def helpblacklist():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage3 = "╭──────────╮" + "\n" + \
-                  "│【さัএπัஞ✵ບิथℓℓҨतΩ】" + "\n" + \
+                  "│ 𝙋𝙣𝙪 𝙎𝙪𝙥𝙝𝙖𝙩" + "\n" + \
                   "╰──────────╯" + "\n" + \
                   "╭──────────╮" + "\n" + \
-                  "│  ☯ sᴇʟғʙᴏᴛ ʙʏ ᴍᴀx ☯" + "\n" + \
+                  "│ Helpbot Pnu Suphat " + "\n" + \
                   "╰──────────╯" + "\n" + \
-                  "       😈 Help Blacklist 😈" + "\n" + \
+                  "        Help Blacklist " + "\n" + \
                   "╭──────────╮" + "\n" + \
                   "│ ≫ " + key + "Banlist\n" + \
-				  "│ ≫ " + key + "Ban:on\n" + \
+		  "│ ≫ " + key + "Ban:on\n" + \
                   "│ ≫ " + key + "Blc\n" + \
-				  "│ ≫ " + key + "Clearban\n" + \
-				  "│ ≫ " + key + "Refresh\n" + \
-				  "│ ≫ " + key + "Unban「@」\n" + \
-				  "│ ≫ " + key + "Unban:on\n" + \
-				  "╰──────────╯" + "\n" + \
+		  "│ ≫ " + key + "Clearban\n" + \
+		  "│ ≫ " + key + "Refresh\n" + \
+		  "│ ≫ " + key + "Unban「@」\n" + \
+		  "│ ≫ " + key + "Unban:on\n" + \
+		  "╰──────────╯" + "\n" + \
                   " " + "\n" + \
-                  "😈「SELFBOT-BY:MAX」😈"
+                  "「SELFBOT Pnu」"
     return helpMessage3
 
 def helpadmin():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage4 = "╭──────────╮" + "\n" + \
-                  "│【さัএπัஞ✵ບิथℓℓҨतΩ】" + "\n" + \
+                  "│Pnu Suphat" + "\n" + \
                   "╰──────────╯" + "\n" + \
                   "╭──────────╮" + "\n" + \
-                  "│  ☯ sᴇʟғʙᴏᴛ ʙʏ ᴍᴀx ☯" + "\n" + \
+                  "│Helpbot Pnu Suphat" + "\n" + \
                   "╰──────────╯" + "\n" + \
-                  "        😈 Help Admin 😈" + "\n" + \
+                  "         Help Admin " + "\n" + \
                   "╭──────────╮" + "\n" + \
                   "│ ≫ " + key + "Admin:on\n" + \
                   "│ ≫ " + key + "Admin:repeat\n" + \
                   "│ ≫ " + key + "Adminadd「@」\n" + \
                   "│ ≫ " + key + "Admindell「@」\n" + \
-				  "│ ≫ " + key + "Bot:on\n" + \
+		  "│ ≫ " + key + "Bot:on\n" + \
                   "│ ≫ " + key + "Bot:repeat\n" + \
-				  "│ ≫ " + key + "Botadd「@」\n" + \
+		  "│ ≫ " + key + "Botadd「@」\n" + \
                   "│ ≫ " + key + "Botdell「@」\n" + \
-				  "│ ≫ " + key + "Refresh\n" + \
-				  "│ ≫ " + key + "Staff:on\n" + \
+		  "│ ≫ " + key + "Refresh\n" + \
+		  "│ ≫ " + key + "Staff:on\n" + \
                   "│ ≫ " + key + "Staff:repeat\n" + \
                   "│ ≫ " + key + "Staffadd「@」\n" + \
                   "│ ≫ " + key + "Staffdell「@」\n" + \
                   "╰──────────╯" + "\n" + \
                   " " + "\n" + \
-                  "😈「SELFBOT-BY:MAX」😈"
+                  "「SELFBOT Pnu Suphat」"
     return helpMessage4
     	
 def helpsetting():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage5 = "╭──────────╮" + "\n" + \
-                  "│【さัএπัஞ✵ບิथℓℓҨतΩ】" + "\n" + \
+                  "│ 𝙋𝙣𝙪  𝙎𝙪𝙥𝙝𝙖𝙩⍣♡̷  " + "\n" + \
                   "╰──────────╯" + "\n" + \
                   "╭──────────╮" + "\n" + \
-                  "│  ☯ sᴇʟғʙᴏᴛ ʙʏ ᴍᴀx ☯" + "\n" + \
+                  "│Helpbot Pnu Suphat" + "\n" + \
                   "╰──────────╯" + "\n" + \
-                  "       😈 Help Setting 😈" + "\n" + \
+                  "     Help Setting " + "\n" + \
                   "╭──────────╮" + "\n" + \
                   "│ ≫ " + key + "Autoadd「on/off」\n" + \
-				  "│ ≫ " + key + "Autojoin「on/off」\n" + \
-				  "│ ≫ " + key + "Autoleave「on/off」\n" + \
-				  "│ ≫ " + key + "Contact「on/off」\n" + \
-				  "│ ≫ " + key + "Jointicket「on/off」\n" + \
-				  "│ ≫ " + key + "Respon「on/off」\n" + \
-				  "│ ≫ " + key + "Unsend「on/off」\n" + \
+		  "│ ≫ " + key + "Autojoin「on/off」\n" + \
+		  "│ ≫ " + key + "Autoleave「on/off」\n" + \
+		  "│ ≫ " + key + "Contact「on/off」\n" + \
+		  "│ ≫ " + key + "Jointicket「on/off」\n" + \
+		  "│ ≫ " + key + "Respon「on/off」\n" + \
+		  "│ ≫ " + key + "Unsend「on/off」\n" + \
                   "│ ≫ " + key + "Welcome「on/off」\n" + \
                   "╰──────────╯" + "\n" + \
                   " " + "\n" + \
-                  "😈「SELFBOT-BY:MAX」😈"
+                  "「SELFBOT Pnu Suphat」"
     return helpMessage5
     
 def helpprotect():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage6 = "╭──────────╮" + "\n" + \
-                  "│【さัএπัஞ✵ບิथℓℓҨतΩ】" + "\n" + \
+                  "│ 𝙋𝙣𝙪  𝙎𝙪𝙥𝙝𝙖𝙩⍣♡̷ " + "\n" + \
                   "╰──────────╯" + "\n" + \
                   "╭──────────╮" + "\n" + \
-                  "│  ☯ sᴇʟғʙᴏᴛ ʙʏ ᴍᴀx ☯" + "\n" + \
+                  "│ Helpbot Pnu Suphat" + "\n" + \
                   "╰──────────╯" + "\n" + \
-                  "        😈 Help Protect 😈" + "\n" + \
+                  "      Help Protect " + "\n" + \
                   "╭──────────╮" + "\n" + \
-				  "│ ≫ " + key + "Join all\n" + \
-                                  "│ ≫ " + key + "Bye all\n" + \
-                                  "│ ≫ " + key + "Bye me\n" + \
-				  "│ ≫ " + key + "Allpro 「on/off」\n" + \
+		  "│ ≫ " + key + "Join all\n" + \
+                  "│ ≫ " + key + "Bye all\n" + \
+                  "│ ≫ " + key + "Bye me\n" + \
+                  "│ ≫ " + key + "Allpro 「on/off」\n" + \
                   "│ ≫ " + key + "Notag「on/off」\n" + \
                   "│ ≫ " + key + "Protecturl「on/off」\n" + \
                   "│ ≫ " + key + "Protectjoin「on/off」\n" + \
@@ -627,49 +627,49 @@ def helpprotect():
                   "│ ≫ " + key + "Ghost「on/off」\n" + \
 				  "╰──────────╯" + "\n" + \
                   " " + "\n" + \
-                  "😈「SELFBOT-BY:MAX」😈"
+                  "「SELFBOT Suphat」"
     return helpMessage6
 	
 def helpbot():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage8 = "╭──────────╮" + "\n" + \
-                  "│【さัএπัஞ✵ບิथℓℓҨतΩ】" + "\n" + \
+                  "│ 𝙋𝙣𝙪  𝙎𝙪𝙥𝙝𝙖𝙩⍣♡̷ " + "\n" + \
                   "╰──────────╯" + "\n" + \
                   "╭──────────╮" + "\n" + \
-                  "│  ☯ sᴇʟғʙᴏᴛ ʙʏ ᴍᴀx ☯" + "\n" + \
+                  "│Pnu Suphat" + "\n" + \
                   "╰──────────╯" + "\n" + \
-                  "         😈 Help SELF 😈" + "\n" + \
+                  "         Help SELF " + "\n" + \
                   "╭──────────╮" + "\n" + \
                   "│ ≫ " + key + "About\n" + \
-				  "│ ≫ " + key + "Close\n" + \
-				  "│ ≫ " + key + "Ginfo\n" + \
-				  "│ ≫ " + key + "Gruplist\n" + \
-				  "│ ≫ " + key + "Info 「@」\n" + \
-                                  "│ ≫ " + key + "Nk「@」\n" + \
-                                  "│ ≫ " + key + "Fuck「@」\n" + \
-				  "│ ≫ " + key + "S u p e r\n" + \
-				  "│ ≫ " + key + "Me\n" + \
+		  "│ ≫ " + key + "Close\n" + \
+		  "│ ≫ " + key + "Ginfo\n" + \
+		  "│ ≫ " + key + "Gruplist\n" + \
+		  "│ ≫ " + key + "Info 「@」\n" + \
+                  "│ ≫ " + key + "Nk「@」\n" + \
+                  "│ ≫ " + key + "Fuck「@」\n" + \
+                  "│ ≫ " + key + "S u p e r\n" + \
+		  "│ ≫ " + key + "Me\n" + \
                   "│ ≫ " + key + "Mid「@」\n" + \
-				  "│ ≫ " + key + "Mybot\n" + \
+		  "│ ≫ " + key + "Mybot\n" + \
                   "│ ≫ " + key + "Mid\n" + \
-				  "│ ≫ " + key + "Open\n" + \
-				  "│ ≫ " + key + "Respon\n" + \
-				  "│ ≫ " + key + "Restart\n" + \
-				  "│ ≫ " + key + "Runtime\n" + \
-				  "│ ≫ " + key + "Speed/Sp\n" + \
-                                  "│ ≫ " + key + "Spbot/Spb\n" + \
-                                  "│ ≫ " + key + "My token\n" + \
+		  "│ ≫ " + key + "Open\n" + \
+		  "│ ≫ " + key + "Respon\n" + \
+		  "│ ≫ " + key + "Restart\n" + \
+		  "│ ≫ " + key + "Runtime\n" + \
+		  "│ ≫ " + key + "Speed/Sp\n" + \
+                  "│ ≫ " + key + "Spbot/Spb\n" + \
+                  "│ ≫ " + key + "My token\n" + \
                   "│ ≫ " + key + "Spbot\n" + \
-				  "│ ≫ " + key + "Stealname「@」\n" + \
+		  "│ ≫ " + key + "Stealname「@」\n" + \
                   "│ ≫ " + key + "Stealbio「@」\n" + \
                   "│ ≫ " + key + "Stealcover「@」\n" + \
-				  "│ ≫ " + key + "Stealpicture「@」\n" + \
+		  "│ ≫ " + key + "Stealpicture「@」\n" + \
                   "│ ≫ " + key + "Stealvideoprofile「@」\n" + \
                   "│ ≫ " + key + "Tag\n" + \
                   "╰──────────╯" + "\n" + \
                   " " + "\n" + \
-                  "😈「SELFBOT-BY:MAX」😈"
+                  "「SELFBOT Pnu Suphat」"
     return helpMessage8
 
 def bot(op):
